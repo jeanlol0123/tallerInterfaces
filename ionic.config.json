@@ -1,0 +1,7 @@
+{
+  "name": "TallerInterfaces",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
